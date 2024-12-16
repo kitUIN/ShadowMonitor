@@ -1,0 +1,6 @@
+rich
+psutil
+apscheduler
+scapy
+pydantic==1.10.17
+pydantic[dotenv]
